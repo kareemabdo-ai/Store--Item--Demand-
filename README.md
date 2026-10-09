@@ -2,7 +2,7 @@
 
 14-day demand forecasting for 10 stores x 50 items, built as a client-style project: a grocery chain owner wants to order the right quantity per branch and product, with fewer empty shelves and less wasted stock.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://store-item-demand.streamlit.app/
 
 ## Problem
 
